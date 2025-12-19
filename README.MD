@@ -1,7 +1,7 @@
-============================================================
-TP NLP – PRÉDICTION MULTI-LABEL D’ABSTRACTS MÉDICAUX
-LSTM / BiLSTM + Word2Vec
-============================================================
+
+# TP NLP – PRÉDICTION MULTI-LABEL D’ABSTRACTS MÉDICAUX
+# LSTM / BiLSTM + Word2Vec
+
 
 # DESCRIPTION DU TP
 ---------------------
@@ -135,3 +135,4 @@ REMARQUE FINALE
 Ce projet illustre une approche complète de classification multi-label
 en NLP, combinant des représentations distribuées (Word2Vec) et des
 modèles séquentiels (LSTM / BiLSTM) sur des données médicales réelles.
+
